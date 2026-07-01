@@ -10,5 +10,10 @@
     <p>lorem
         lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
     </p>
+    <ul>
+        <li>satu</li>
+        li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 </html>
